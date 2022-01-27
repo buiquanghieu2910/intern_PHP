@@ -1,0 +1,32 @@
+body {
+    padding: 0px;
+    margin: 0 auto;
+    background-color: lightgrey;
+}
+
+header {
+    height: 100px;
+    background-color: red;
+}
+
+
+/* .container>div>* {
+    min-height: 300px;
+    background-color: blue;
+    margin-top: 20px;
+}
+
+.container>div>article {
+    background-color: cyan;
+} */
+
+
+/* footer {
+    height: 50px;
+    background-color: gray;
+} */
+
+
+/* .navbar {
+    margin-bottom: 0px;
+} */
